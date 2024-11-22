@@ -28,5 +28,5 @@ The Sales Decision Support System is a machine learning-based project designed t
 - Implements ETL processes for data extraction, transformation, and loading, and OLAP analysis for KPI generation.
 - Visualizes key insights and metrics using Power BI dashboards.
 
-## Google Colab link: https://colab.research.google.com/drive/1qVVhw8lb41fh6vmY5u9kj23lW6AcJt3P
-## Proejct Report: https://docs.google.com/document/d/1ydOACAcoLzm5FC4sqTUzgW8-Ojc9z-niOlDwf6ibMRA/edit?pli=1&tab=t.0#heading=h.kno0hfa0y5my
+**Google Colab link**: https://colab.research.google.com/drive/1qVVhw8lb41fh6vmY5u9kj23lW6AcJt3P
+**Proejct Report**: https://docs.google.com/document/d/1ydOACAcoLzm5FC4sqTUzgW8-Ojc9z-niOlDwf6ibMRA/edit?pli=1&tab=t.0#heading=h.kno0hfa0y5my
