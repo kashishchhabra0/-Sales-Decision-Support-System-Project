@@ -11,7 +11,10 @@ The Sales Decision Support System is a machine learning-based project designed t
   - Scikit-Learn
   - XGBoost
   - Streamlit
+  - Neural Network
+  - Clustering
   - Matplotlib/Seaborn (for visualization)
+
 - **Data Visualization**: Power BI
 - **Machine Learning Models**:
   - Random Forest Regression
@@ -24,3 +27,5 @@ The Sales Decision Support System is a machine learning-based project designed t
 - User-friendly web interface developed with Streamlit for interactive sales predictions.
 - Implements ETL processes for data extraction, transformation, and loading, and OLAP analysis for KPI generation.
 - Visualizes key insights and metrics using Power BI dashboards.
+
+## Google Colab link: https://colab.research.google.com/drive/1qVVhw8lb41fh6vmY5u9kj23lW6AcJt3P
